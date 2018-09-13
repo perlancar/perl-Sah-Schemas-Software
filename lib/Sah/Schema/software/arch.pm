@@ -12,7 +12,7 @@ our $schema = ["str", {
                  linux-x86_64
                  win32
                  win64
-             /];
+             /],
 }, {}];
 
 1;
